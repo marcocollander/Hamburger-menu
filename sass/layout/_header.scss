@@ -1,0 +1,11 @@
+.header {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  &__image {
+    width: 10vw;
+    border-radius: 50%;
+  }
+}
